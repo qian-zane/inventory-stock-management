@@ -104,8 +104,6 @@ Possible future improvements include:
 
 **Name:** Qian Cao
 
-**P-Number:** P303070378
-
 **Module:** IY499 Introduction to Programming
 
 ## Academic Integrity
