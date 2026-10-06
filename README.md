@@ -10,7 +10,7 @@ The system allows users to manage inventory through a simple command-line interf
 
 The source code for this project is available at:
 
-https://github.com/qq490138867-zane/inventory-stock-management
+https://github.com/qian-zane/inventory-stock-management
 
 ## Features
 
